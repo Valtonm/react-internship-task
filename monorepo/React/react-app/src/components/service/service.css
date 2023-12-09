@@ -1,0 +1,32 @@
+.service-wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1% 0 1%;
+    margin: 5%;
+    border: 1px solid lightgray;
+    transition: all 200ms ease;
+    cursor: pointer;
+}
+.service-wrapper:hover{
+    background-color: rgb(247, 249, 249);
+}
+.service{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.service img{
+    width: 5vh;
+    height: 5vh;
+}
+.service p{
+    font-size: 18px;
+    font-weight: 600;
+    margin-left: 5px;
+}
+.service-wrapper svg{
+    color: lightgray;
+    width: 5vh;
+    height: 2vh;
+}

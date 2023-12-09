@@ -1,0 +1,24 @@
+{   
+    "services":[
+        {
+            "id": 1,
+            "title": "Anti Wrinkle Treatment",
+            "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrctyTY6-KVbaa9E4OS5KJIuoVsESm3nwgcVBdxvXrPipRu4x3qXP65MuCL7TsjxzyNk&usqp=CAU"
+        },
+        {
+            "id": 2,
+            "title": "Dermal Fillers",
+            "img" : "https://i0.wp.com/www.beautifi.com/wp-content/uploads/2021/12/23.-Dermal-Fillers.jpeg?resize=768%2C512&ssl=1"
+        },
+        {
+            "id": 3,
+            "title": "Secret RF",
+            "img" : "https://chrysalisclinic.ca/wp-content/uploads/2019/07/Secret-RF-treatment-300x200.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Facials",
+            "img" : "https://elitecutis.com.au/wp-content/uploads/2023/08/anti-wrinkle.jpg"
+        }
+    ]
+}

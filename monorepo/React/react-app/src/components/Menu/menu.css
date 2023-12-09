@@ -1,0 +1,25 @@
+.menu-container{
+    background-color: lightgrey;
+    display: flex;
+    flex-direction: column;
+    justify-content:baseline;
+    align-items: center;
+    padding: 4% 0 4% 0;
+}
+.services-container, .text-container{
+    width: 30%;
+    padding: 2%;
+    background-color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border-radius: 5px;
+}
+.text-container{
+    margin-top: 1%;
+}
+.text-container p {
+    font-size: 17px;
+    font-weight: 500;
+}
+.text-container p span{
+    color: blue;
+}
